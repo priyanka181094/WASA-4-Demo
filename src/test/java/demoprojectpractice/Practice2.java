@@ -7,6 +7,7 @@ public class Practice2 {
 	public void name()
 	{
 		System.out.println("my name is priyanka");
+		System.out.println("I live in banaglore");
 	}
 
 }
