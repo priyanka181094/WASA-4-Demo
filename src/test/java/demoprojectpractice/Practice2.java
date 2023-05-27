@@ -9,6 +9,9 @@ public class Practice2 {
 		System.out.println("my name is priyanka");
 		System.out.println("I live in banaglore");
 		System.out.println("i am studying");
+		
+		
+		
 	}
 
 }
