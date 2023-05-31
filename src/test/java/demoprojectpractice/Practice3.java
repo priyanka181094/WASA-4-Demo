@@ -10,7 +10,7 @@ public class Practice3 {
 		
 		
 		System.out.println("i am studying");
-		System.out.println("hello... I am testengineer);s
+		System.out.println("hello... I am testengineer");
 		
 		
 		
